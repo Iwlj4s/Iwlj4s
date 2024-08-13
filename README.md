@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Iwlj4s/Iwlj4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class SoftwareDeveloper:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Iwlj4s"
+        self.age = 19
+        self.email = "Iwlj4s@mail.ru"
+        self.role = "Junior Python Developer"
+        self.language_spoken = ["ru_RU", "en_US"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hello(self):
+        print(f"Hi, I'm {self.name}, hope you find some of my work interesting")
+
+
+me = SoftwareDeveloper()
+me.say_hello()
+```
+
+
+## 📌 Main Projects
+
+<a href="https://github.com/Iwlj4s/tgRegistrationForEvents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iwlj4s&repo=tgRegistrationForEvents&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="tgRegistrationForEvents" />
+</a>
+
+<a href="https://github.com/Iwlj4s/ Basics_Of_Discrete_Math">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iwlj4s&repo=Basics_Of_Discrete_Math&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="tgRegistrationForEvents" />
+</a>
+
+<a href="https://github.com/Iwlj4s/telegramMovieBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iwlj4s&repo=telegramMovieBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="tgRegistrationForEvents" />
+</a>
