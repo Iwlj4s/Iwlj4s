@@ -4,7 +4,7 @@ class SoftwareDeveloper:
     def __init__(self):
         self.name = "Iwlj4s"
         self.age = 19
-        self.email = "Iwlj4s@mail.ru"
+        self.email = "iwlj4s@inbox.ru"
         self.role = "Junior Python Developer"
         self.language_spoken = ["ru_RU", "en_US"]
 
